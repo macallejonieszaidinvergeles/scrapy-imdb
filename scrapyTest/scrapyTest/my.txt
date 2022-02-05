@@ -1,2 +1,127 @@
-{'Encanto': 'https://www.imdb.com/title/tt2953050/', "Don't Look Up": 'https://www.imdb.com/title/tt11286314/', 'Sing 2': 'https://www.imdb.com/title/tt6467266/', 'The Royal Treatment': 'https://www.imdb.com/title/tt13989030/', 'Ghostbusters: Afterlife': 'https://www.imdb.com/title/tt4513678/', 'Licorice Pizza': 'https://www.imdb.com/title/tt11271038/', 'The Ice Age Adventures of Buck Wild': 'https://www.imdb.com/title/tt13634480/', 'Hotel Transylvania: Transformania': 'https://www.imdb.com/title/tt9848626/', 'Once Upon a Time... In Hollywood': 'https://www.imdb.com/title/tt7131622/', 'The Suicide Squad': 'https://www.imdb.com/title/tt6334354/', 'Home Team': 'https://www.imdb.com/title/tt14592064/', 'The French Dispatch': 'https://www.imdb.com/title/tt8847712/', 'Free Guy': 'https://www.imdb.com/title/tt6264654/', 'The Worst Person in the World': 'https://www.imdb.com/title/tt10370710/', 'Sing': 'https://www.imdb.com/title/tt3470600/', 'CODA': 'https://www.imdb.com/title/tt10366460/', 'Red Notice': 'https://www.imdb.com/title/tt7991608/', 'The Wolf of Wall Street': 'https://www.imdb.com/title/tt0993846/', 'The Gentlemen': 'https://www.imdb.com/title/tt8367814/', 'Knives Out': 'https://www.imdb.com/title/tt8946378/', 'Ghostbusters': 'https://www.imdb.com/title/tt0087332/', "Tyler Perry's A Madea Homecoming": 'https://www.imdb.com/title/tt14813966/', 'Perfect Strangers': 'https://www.imdb.com/title/tt4901306/', 'The Rocky Horror Picture Show': 'https://www.imdb.com/title/tt0073629/', 'Spider-Man: Into the Spider-Verse': 'https://www.imdb.com/title/tt4633694/', 'Parasite': 'https://www.imdb.com/title/tt6751668/', 'Kingsman: The Secret Service': 'https://www.imdb.com/title/tt2802144/', 'Yesterday': 'https://www.imdb.com/title/tt8079248/', "Hitman's Wife's Bodyguard": 'https://www.imdb.com/title/tt8385148/', 'Army of Thieves': 'https://www.imdb.com/title/tt13024674/', 'Cruella': 'https://www.imdb.com/title/tt3228774/', 'The Lost City': 'https://www.imdb.com/title/tt13320622/', 'Guardians of the Galaxy': 'https://www.imdb.com/title/tt2015381/', 'Dog': 'https://www.imdb.com/title/tt11252248/', 'Jungle Cruise': 'https://www.imdb.com/title/tt0870154/', 'Red Rocket': 'https://www.imdb.com/title/tt13453006/', 'Thor: Ragnarok': 'https://www.imdb.com/title/tt3501632/', 'Raya and the Last Dragon': 'https://www.imdb.com/title/tt5109280/', 'Sharp Stick': 'https://www.imdb.com/title/tt14158346/', 'Marry Me': 'https://www.imdb.com/title/tt10223460/', 'Emma.': 'https://www.imdb.com/title/tt9214832/', 'Sex Appeal': 'https://www.imdb.com/title/tt11203022/', 'The Grand Budapest Hotel': 'https://www.imdb.com/title/tt2278388/', 'Jojo Rabbit': 'https://www.imdb.com/title/tt2584384/', 'Hotel Transylvania': 'https://www.imdb.com/title/tt0837562/', 'Deadpool': 'https://www.imdb.com/title/tt1431045/', "Ron's Gone Wrong": 'https://www.imdb.com/title/tt7504818/', 'Luca': 'https://www.imdb.com/title/tt12801262/', 'Another Round': 'https://www.imdb.com/title/tt10288566/'}
-{'Knives Out 2': 'https://www.imdb.com/title/tt11564570/', 'The Big Short': 'https://www.imdb.com/title/tt1596363/', 'Clifford the Big Red Dog': 'https://www.imdb.com/title/tt2397461/', 'Moana': 'https://www.imdb.com/title/tt3521164/', 'The Wedding Singer': 'https://www.imdb.com/title/tt0120888/', 'Back to the Future': 'https://www.imdb.com/title/tt0088763/', 'Guardians of the Galaxy Vol. 2': 'https://www.imdb.com/title/tt3896198/', 'Dolittle': 'https://www.imdb.com/title/tt6673612/', 'Deadpool 2': 'https://www.imdb.com/title/tt5463162/', 'The Hangover': 'https://www.imdb.com/title/tt1119646/', 'Aladdin': 'https://www.imdb.com/title/tt6139732/', 'The Truman Show': 'https://www.imdb.com/title/tt0120382/', 'Just Go with It': 'https://www.imdb.com/title/tt1564367/', 'Kingsman: The Golden Circle': 'https://www.imdb.com/title/tt4649466/', 'The Mitchells vs the Machines': 'https://www.imdb.com/title/tt7979580/', 'The Replacements': 'https://www.imdb.com/title/tt0191397/', 'Good Luck to You, Leo Grande': 'https://www.imdb.com/title/tt13352968/', 'Charlie and the Chocolate Factory': 'https://www.imdb.com/title/tt0367594/', 'Scary Movie': 'https://www.imdb.com/title/tt0175142/', 'Love Actually': 'https://www.imdb.com/title/tt0314331/', 'Snatch': 'https://www.imdb.com/title/tt0208092/', 'Ice Age': 'https://www.imdb.com/title/tt0268380/', 'Cha Cha Real Smooth': 'https://www.imdb.com/title/tt14376344/', 'Mean Girls': 'https://www.imdb.com/title/tt0377092/', 'The Goonies': 'https://www.imdb.com/title/tt0089218/', 'La La Land': 'https://www.imdb.com/title/tt3783958/', 'Pitch Perfect': 'https://www.imdb.com/title/tt1981677/', 'Hotel Transylvania 3: Summer Vacation': 'https://www.imdb.com/title/tt5220122/', 'Dark Shadows': 'https://www.imdb.com/title/tt1077368/', 'Teenage Mutant Ninja Turtles': 'https://www.imdb.com/title/tt0100758/', 'The Longest Yard': 'https://www.imdb.com/title/tt0398165/', 'Midnight in Paris': 'https://www.imdb.com/title/tt1605783/', 'The Hating Game': 'https://www.imdb.com/title/tt8718158/', 'Silver Linings Playbook': 'https://www.imdb.com/title/tt1045658/', 'Road Trip': 'https://www.imdb.com/title/tt0215129/', 'Green Book': 'https://www.imdb.com/title/tt6966692/', 'Baywatch': 'https://www.imdb.com/title/tt1469304/', 'Frozen': 'https://www.imdb.com/title/tt2294629/', 'Coco': 'https://www.imdb.com/title/tt2380307/', 'Soul': 'https://www.imdb.com/title/tt2948372/', 'The Big Lebowski': 'https://www.imdb.com/title/tt0118715/', 'Grease': 'https://www.imdb.com/title/tt0077631/', 'Zathura: A Space Adventure': 'https://www.imdb.com/title/tt0406375/', 'Dazed and Confused': 'https://www.imdb.com/title/tt0106677/', '10 Things I Hate About You': 'https://www.imdb.com/title/tt0147800/', 'Riders of Justice': 'https://www.imdb.com/title/tt11655202/', 'Cars': 'https://www.imdb.com/title/tt0317219/', 'Dead Poets Society': 'https://www.imdb.com/title/tt0097165/', 'I Care a Lot': 'https://www.imdb.com/title/tt9893250/', 'The Lost Boys': 'https://www.imdb.com/title/tt0093437/'}
+{'titulo': ['Encanto'], 'reseñas_usuarios': '897', 'reseñas_criticos': '196', 'metapuntuación': ['76']}
+{'titulo': ['Ron da error'], 'reseñas_usuarios': '165', 'reseñas_criticos': '105', 'metapuntuación': ['65']}
+{'titulo': ['Otra ronda'], 'reseñas_usuarios': '440', 'reseñas_criticos': '271', 'metapuntuación': ['79']}
+{'titulo': ['Luca'], 'reseñas_usuarios': '770', 'reseñas_criticos': '257', 'metapuntuación': ['71']}
+{'titulo': ['Deadpool'], 'reseñas_usuarios': '1.5K', 'reseñas_criticos': '663', 'metapuntuación': ['65']}
+{'titulo': ['Hotel Transilvania'], 'reseñas_usuarios': '268', 'reseñas_criticos': '271', 'metapuntuación': ['47']}
+{'titulo': ['Jojo Rabbit'], 'reseñas_usuarios': '1.7K', 'reseñas_criticos': '435', 'metapuntuación': ['58']}
+{'titulo': 'Not Available', 'reseñas_usuarios': 'Not Available', 'reseñas_criticos': 'Not Available', 'metapuntuación': 'Not Available'}
+{'titulo': 'Not Available', 'reseñas_usuarios': 'Not Available', 'reseñas_criticos': 'Not Available', 'metapuntuación': 'Not Available'}
+{'titulo': ['Thor: Ragnarok'], 'reseñas_usuarios': '1.8K', 'reseñas_criticos': '535', 'metapuntuación': ['74']}
+{'titulo': ['El gran hotel Budapest'], 'reseñas_usuarios': '996', 'reseñas_criticos': '571', 'metapuntuación': ['88']}
+{'titulo': 'Not Available', 'reseñas_usuarios': 'Not Available', 'reseñas_criticos': 'Not Available', 'metapuntuación': 'Not Available'}
+{'titulo': 'Not Available', 'reseñas_usuarios': 'Not Available', 'reseñas_criticos': 'Not Available', 'metapuntuación': 'Not Available'}
+{'titulo': ['Emma.'], 'reseñas_usuarios': '505', 'reseñas_criticos': '207', 'metapuntuación': ['71']}
+{'titulo': ['Red Rocket'], 'reseñas_usuarios': '53', 'reseñas_criticos': '224', 'metapuntuación': ['75']}
+{'titulo': 'Not Available', 'reseñas_usuarios': 'Not Available', 'reseñas_criticos': 'Not Available', 'metapuntuación': 'Not Available'}
+{'titulo': ['Jungle Cruise'], 'reseñas_usuarios': '1.2K', 'reseñas_criticos': '273', 'metapuntuación': ['50']}
+{'titulo': 'Not Available', 'reseñas_usuarios': 'Not Available', 'reseñas_criticos': 'Not Available', 'metapuntuación': 'Not Available'}
+{'titulo': ['Jóvenes ocultos'], 'reseñas_usuarios': '468', 'reseñas_criticos': '160', 'metapuntuación': ['63']}
+{'titulo': ['Guardianes de la Galaxia'], 'reseñas_usuarios': '1.5K', 'reseñas_criticos': '725', 'metapuntuación': ['76']}
+{'titulo': ['I Care a Lot'], 'reseñas_usuarios': '4.3K', 'reseñas_criticos': '214', 'metapuntuación': ['66']}
+{'titulo': ['El club de los poetas muertos'], 'reseñas_usuarios': '728', 'reseñas_criticos': '111', 'metapuntuación': ['79']}
+{'titulo': ['Cars'], 'reseñas_usuarios': '732', 'reseñas_criticos': '253', 'metapuntuación': ['73']}
+{'titulo': ['Movida del 76'], 'reseñas_usuarios': '516', 'reseñas_criticos': '161', 'metapuntuación': ['78']}
+{'titulo': ['10 razones para odiarte'], 'reseñas_usuarios': '672', 'reseñas_criticos': '119', 'metapuntuación': ['70']}
+{'titulo': ['Raya y el último dragón'], 'reseñas_usuarios': '1.2K', 'reseñas_criticos': '260', 'metapuntuación': ['75']}
+{'titulo': ['Zathura: Una aventura espacial'], 'reseñas_usuarios': '264', 'reseñas_criticos': '129', 'metapuntuación': ['67']}
+{'titulo': ['Grease'], 'reseñas_usuarios': '476', 'reseñas_criticos': '113', 'metapuntuación': ['70']}
+{'titulo': ['Soul'], 'reseñas_usuarios': '1.8K', 'reseñas_criticos': '344', 'metapuntuación': ['83']}
+{'titulo': ['Jinetes de la justicia'], 'reseñas_usuarios': '281', 'reseñas_criticos': '158', 'metapuntuación': ['81']}
+{'titulo': ['El gran Lebowski'], 'reseñas_usuarios': '1.3K', 'reseñas_criticos': '199', 'metapuntuación': ['71']}
+{'titulo': ['Frozen: El reino del hielo'], 'reseñas_usuarios': '1.2K', 'reseñas_criticos': '445', 'metapuntuación': ['75']}
+{'titulo': ['Coco'], 'reseñas_usuarios': '1.3K', 'reseñas_criticos': '415', 'metapuntuación': ['81']}
+{'titulo': ['Green Book'], 'reseñas_usuarios': '1.6K', 'reseñas_criticos': '422', 'metapuntuación': ['69']}
+{'titulo': ['Baywatch: Los vigilantes de la playa'], 'reseñas_usuarios': '514', 'reseñas_criticos': '334', 'metapuntuación': ['37']}
+{'titulo': ['Road Trip (Viaje de pirados)'], 'reseñas_usuarios': '327', 'reseñas_criticos': '82', 'metapuntuación': ['55']}
+{'titulo': ['Aterriza como puedas'], 'reseñas_usuarios': '566', 'reseñas_criticos': '138', 'metapuntuación': ['78']}
+{'titulo': ['¡Nos volvemos a casa!'], 'reseñas_usuarios': '62', 'reseñas_criticos': '22', 'metapuntuación': ['58']}
+{'titulo': ['Street Fighter: La última batalla'], 'reseñas_usuarios': '345', 'reseñas_criticos': '89', 'metapuntuación': ['34']}
+{'titulo': ['Solo en casa'], 'reseñas_usuarios': '572', 'reseñas_criticos': '109', 'metapuntuación': ['63']}
+{'titulo': ['Palm Springs'], 'reseñas_usuarios': '646', 'reseñas_criticos': '238', 'metapuntuación': ['83']}
+{'titulo': ['El club de los cinco'], 'reseñas_usuarios': '952', 'reseñas_criticos': '152', 'metapuntuación': ['66']}
+{'titulo': ['Ellas dan el golpe'], 'reseñas_usuarios': '245', 'reseñas_criticos': '66', 'metapuntuación': ['67']}
+{'titulo': ['Crazy, Stupid, Love.'], 'reseñas_usuarios': '447', 'reseñas_criticos': '315', 'metapuntuación': ['68']}
+{'titulo': ['Sexo en Nueva York: La película'], 'reseñas_usuarios': '513', 'reseñas_criticos': '202', 'metapuntuación': ['53']}
+{'titulo': ['Intocable'], 'reseñas_usuarios': '784', 'reseñas_criticos': '323', 'metapuntuación': ['57']}
+{'titulo': ['Cazafantasmas'], 'reseñas_usuarios': '2.5K', 'reseñas_criticos': '698', 'metapuntuación': ['60']}
+{'titulo': ["Jennifer's Body"], 'reseñas_usuarios': '416', 'reseñas_criticos': '315', 'metapuntuación': ['47']}
+{'titulo': ['Cashback'], 'reseñas_usuarios': '199', 'reseñas_criticos': '130', 'metapuntuación': ['54']}
+{'titulo': 'Not Available', 'reseñas_usuarios': 'Not Available', 'reseñas_criticos': 'Not Available', 'metapuntuación': 'Not Available'}
+{'titulo': ['Niños grandes 2'], 'reseñas_usuarios': '352', 'reseñas_criticos': '140', 'metapuntuación': ['19']}
+{'titulo': ['Infiltrados en clase'], 'reseñas_usuarios': '445', 'reseñas_criticos': '382', 'metapuntuación': ['69']}
+{'titulo': 'Not Available', 'reseñas_usuarios': 'Not Available', 'reseñas_criticos': 'Not Available', 'metapuntuación': 'Not Available'}
+{'titulo': ['When You Finish Saving the World'], 'reseñas_usuarios': '1', 'reseñas_criticos': '49', 'metapuntuación': ['65']}
+{'titulo': ['Toy Story'], 'reseñas_usuarios': '720', 'reseñas_criticos': '155', 'metapuntuación': ['95']}
+{'titulo': ['Secretary'], 'reseñas_usuarios': '433', 'reseñas_criticos': '169', 'metapuntuación': ['63']}
+{'titulo': ['Héroes fuera de órbita'], 'reseñas_usuarios': '722', 'reseñas_criticos': '107', 'metapuntuación': ['70']}
+{'titulo': ['El otro guardaespaldas'], 'reseñas_usuarios': '609', 'reseñas_criticos': '302', 'metapuntuación': ['47']}
+{'titulo': ['Sexo en Nueva York 2'], 'reseñas_usuarios': '358', 'reseñas_criticos': '186', 'metapuntuación': ['27']}
+{'titulo': ['Jumanji'], 'reseñas_usuarios': '303', 'reseñas_criticos': '80', 'metapuntuación': ['39']}
+{'titulo': 'Not Available', 'reseñas_usuarios': 'Not Available', 'reseñas_criticos': 'Not Available', 'metapuntuación': 'Not Available'}
+{'titulo': ['Silent Night'], 'reseñas_usuarios': '235', 'reseñas_criticos': '92', 'metapuntuación': ['52']}
+{'titulo': ['Los Tenenbaums. Una familia de genios'], 'reseñas_usuarios': '1K', 'reseñas_criticos': '222', 'metapuntuación': ['76']}
+{'titulo': ['Birdman o (La inesperada virtud de la ignorancia)'], 'reseñas_usuarios': '1.4K', 'reseñas_criticos': '626', 'metapuntuación': ['87']}
+{'titulo': ['Del revés (Inside Out)'], 'reseñas_usuarios': '1.1K', 'reseñas_criticos': '593', 'metapuntuación': ['94']}
+{'titulo': ['The Sandlot: Historia de un verano'], 'reseñas_usuarios': '206', 'reseñas_criticos': '57', 'metapuntuación': ['55']}
+{'titulo': ['Noche en el museo'], 'reseñas_usuarios': '497', 'reseñas_criticos': '172', 'metapuntuación': ['48']}
+{'titulo': ['De boda en boda'], 'reseñas_usuarios': '694', 'reseñas_criticos': '180', 'metapuntuación': ['64']}
+{'titulo': ['Hotel Transilvania 2'], 'reseñas_usuarios': '178', 'reseñas_criticos': '186', 'metapuntuación': ['44']}
+{'titulo': 'Not Available', 'reseñas_usuarios': 'Not Available', 'reseñas_criticos': 'Not Available', 'metapuntuación': 'Not Available'}
+{'titulo': ['The Dirt'], 'reseñas_usuarios': '580', 'reseñas_criticos': '77', 'metapuntuación': ['39']}
+{'titulo': ['¿En qué piensan las mujeres?'], 'reseñas_usuarios': '435', 'reseñas_criticos': '109', 'metapuntuación': ['47']}
+{'titulo': 'Not Available', 'reseñas_usuarios': 'Not Available', 'reseñas_criticos': 'Not Available', 'metapuntuación': 'Not Available'}
+{'titulo': ['Atrapado en el tiempo'], 'reseñas_usuarios': '871', 'reseñas_criticos': '137', 'metapuntuación': ['72']}
+{'titulo': ['16 velas'], 'reseñas_usuarios': '229', 'reseñas_criticos': '100', 'metapuntuación': ['61']}
+{'titulo': ['Dos buenos tipos'], 'reseñas_usuarios': '548', 'reseñas_criticos': '454', 'metapuntuación': ['70']}
+{'titulo': ['Annie'], 'reseñas_usuarios': '163', 'reseñas_criticos': '44', 'metapuntuación': ['39']}
+{'titulo': ['Criminales en el mar'], 'reseñas_usuarios': '886', 'reseñas_criticos': '89', 'metapuntuación': ['38']}
+{'titulo': ['Peleando en familia'], 'reseñas_usuarios': '396', 'reseñas_criticos': '201', 'metapuntuación': ['68']}
+{'titulo': ['Notting Hill'], 'reseñas_usuarios': '753', 'reseñas_criticos': '126', 'metapuntuación': ['68']}
+{'titulo': ['Queenpins'], 'reseñas_usuarios': '85', 'reseñas_criticos': '37', 'metapuntuación': ['45']}
+{'titulo': ['Up'], 'reseñas_usuarios': '1K', 'reseñas_criticos': '408', 'metapuntuación': ['88']}
+{'titulo': ["Ocean's 8"], 'reseñas_usuarios': '1.1K', 'reseñas_criticos': '353', 'metapuntuación': ['61']}
+{'titulo': ['Amelie'], 'reseñas_usuarios': '1.5K', 'reseñas_criticos': '149', 'metapuntuación': ['69']}
+{'titulo': ['El bar Coyote'], 'reseñas_usuarios': '408', 'reseñas_criticos': '136', 'metapuntuación': ['27']}
+{'titulo': ['Mascotas'], 'reseñas_usuarios': '347', 'reseñas_criticos': '295', 'metapuntuación': ['61']}
+{'titulo': ['Bad Boys for Life'], 'reseñas_usuarios': '1.2K', 'reseñas_criticos': '252', 'metapuntuación': ['59']}
+{'titulo': ['Tropic Thunder: ¡Una guerra muy perra!'], 'reseñas_usuarios': '695', 'reseñas_criticos': '321', 'metapuntuación': ['71']}
+{'titulo': ['La terminal'], 'reseñas_usuarios': '812', 'reseñas_criticos': '157', 'metapuntuación': ['55']}
+{'titulo': ['Los Croods: Una nueva era'], 'reseñas_usuarios': '286', 'reseñas_criticos': '107', 'metapuntuación': ['56']}
+{'titulo': ['Un pequeño favor'], 'reseñas_usuarios': '892', 'reseñas_criticos': '299', 'metapuntuación': ['67']}
+{'titulo': ['(500) días juntos'], 'reseñas_usuarios': '696', 'reseñas_criticos': '347', 'metapuntuación': ['76']}
+{'titulo': ['Te quiero, tío'], 'reseñas_usuarios': '253', 'reseñas_criticos': '218', 'metapuntuación': ['70']}
+{'titulo': ['Aquel excitante curso'], 'reseñas_usuarios': '317', 'reseñas_criticos': '144', 'metapuntuación': ['61']}
+{'titulo': ['Aquellas juergas universitarias'], 'reseñas_usuarios': '431', 'reseñas_criticos': '87', 'metapuntuación': ['54']}
+{'titulo': ['Chef'], 'reseñas_usuarios': '549', 'reseñas_criticos': '324', 'metapuntuación': ['68']}
+{'titulo': ['Jolt'], 'reseñas_usuarios': '479', 'reseñas_criticos': '112', 'metapuntuación': ['48']}
+{'titulo': ['Juerga hasta el fin'], 'reseñas_usuarios': '823', 'reseñas_criticos': '407', 'metapuntuación': ['67']}
+{'titulo': ['Dos tontos muy tontos'], 'reseñas_usuarios': '508', 'reseñas_criticos': '81', 'metapuntuación': ['41']}
+{'titulo': ['O Brother!'], 'reseñas_usuarios': '950', 'reseñas_criticos': '107', 'metapuntuación': ['69']}
+{'titulo': ['Aladdín'], 'reseñas_usuarios': '372', 'reseñas_criticos': '152', 'metapuntuación': ['86']}
+{'titulo': ['La familia Addams 2'], 'reseñas_usuarios': '119', 'reseñas_criticos': '80', 'metapuntuación': ['37']}
+{'titulo': ['Toy Story 4'], 'reseñas_usuarios': '1.3K', 'reseñas_criticos': '396', 'metapuntuación': ['84']}
+{'titulo': ['Sr. y Sra. Smith'], 'reseñas_usuarios': '869', 'reseñas_criticos': '216', 'metapuntuación': ['55']}
+{'titulo': ['¿Teléfono rojo? Volamos hacia Moscú'], 'reseñas_usuarios': '1K', 'reseñas_criticos': '231', 'metapuntuación': ['97']}
+{'titulo': ['Hombres de negro II'], 'reseñas_usuarios': '667', 'reseñas_criticos': '203', 'metapuntuación': ['49']}
+{'titulo': 'Not Available', 'reseñas_usuarios': 'Not Available', 'reseñas_criticos': 'Not Available', 'metapuntuación': 'Not Available'}
+{'titulo': ['Mandíbulas'], 'reseñas_usuarios': '424', 'reseñas_criticos': '145', 'metapuntuación': ['34']}
+{'titulo': ["Wayne's World: ¡Qué desparrame!"], 'reseñas_usuarios': '210', 'reseñas_criticos': '71', 'metapuntuación': ['57']}
+{'titulo': 'Not Available', 'reseñas_usuarios': 'Not Available', 'reseñas_criticos': 'Not Available', 'metapuntuación': 'Not Available'}
+{'titulo': ['Mejor... imposible'], 'reseñas_usuarios': '589', 'reseñas_criticos': '135', 'metapuntuación': ['67']}
+{'titulo': ['Festival de la Canción de Eurovisión: La historia de Fire Saga'], 'reseñas_usuarios': '1.3K', 'reseñas_criticos': '185', 'metapuntuación': ['50']}
+{'titulo': 'Not Available', 'reseñas_usuarios': 'Not Available', 'reseñas_criticos': 'Not Available', 'metapuntuación': 'Not Available'}
+{'titulo': ['Bienvenidos a Zombieland'], 'reseñas_usuarios': '759', 'reseñas_criticos': '478', 'metapuntuación': ['73']}
+{'titulo': ['Novio por una noche'], 'reseñas_usuarios': '187', 'reseñas_criticos': '123', 'metapuntuación': ['19']}
+{'titulo': ['Los imprevistos del amor'], 'reseñas_usuarios': '206', 'reseñas_criticos': '103', 'metapuntuación': ['44']}
+{'titulo': ['Ninja Turtles'], 'reseñas_usuarios': '584', 'reseñas_criticos': '362', 'metapuntuación': ['31']}
+{'titulo': ['Life Aquatic'], 'reseñas_usuarios': '703', 'reseñas_criticos': '265', 'metapuntuación': ['62']}
+{'titulo': ['Un mar de líos'], 'reseñas_usuarios': '164', 'reseñas_criticos': '49', 'metapuntuación': ['53']}
+{'titulo': ['Don Jon'], 'reseñas_usuarios': '354', 'reseñas_criticos': '372', 'metapuntuación': ['66']}
+{'titulo': ['Men in Black 3'], 'reseñas_usuarios': '413', 'reseñas_criticos': '455', 'metapuntuación': ['58']}
+{'titulo': ['El camino de vuelta'], 'reseñas_usuarios': '295', 'reseñas_criticos': '286', 'metapuntuación': ['68']}
+{'titulo': ['¡Socorro! Llegan las vacaciones'], 'reseñas_usuarios': '233', 'reseñas_criticos': '70', 'metapuntuación': ['55']}
+{'titulo': ['Ice Age 4: La formación de los continentes'], 'reseñas_usuarios': '165', 'reseñas_criticos': '228', 'metapuntuación': ['49']}
+{'titulo': ['Día de lluvia en Nueva York'], 'reseñas_usuarios': '335', 'reseñas_criticos': '168', 'metapuntuación': ['38']}
+{'titulo': ['Spenser: Confidencial'], 'reseñas_usuarios': '620', 'reseñas_criticos': '112', 'metapuntuación': ['49']}
+{'titulo': ['Academia Rushmore'], 'reseñas_usuarios': '690', 'reseñas_criticos': '184', 'metapuntuación': ['86']}
