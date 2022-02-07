@@ -1,15 +1,8 @@
 import scrapy
 
-# from urllib.parse import urlparse
 from urllib.parse import urljoin
 
-# from flask import Request
-
-from random import randint
-from time import sleep
-
 contador = 0
-
 
 class QuotesSpider(scrapy.Spider):
     name = "scrapyTest"
@@ -23,19 +16,14 @@ class QuotesSpider(scrapy.Spider):
     def parse(self, response):
         global contador
 
-        # css ('div.content p :: text') Use las Herramientas para desarrolladores de Google Chrome para verificar la ubicación específica del texto que se debe rastrear
-        # titulos = response.css(
-        #     "div.lister-item-content>h3.lister-item-header a::text"
-        # ).getall()
         links = response.css(
             "div.lister-item-content>h3.lister-item-header  a::attr(href)"
         ).extract()
-        # links = urljoin('https://www.imdb.com',links)
+        
         next = response.css(
             "#main > div > div.desc > a.lister-page-next.next-page::attr(href)"
         ).extract()
-        # next_page = response.css('.next a').attrib['href']
-
+        
         links_completos = []
         for link in links:
             base_url = "https://www.imdb.com"
@@ -97,7 +85,6 @@ class QuotesSpider(scrapy.Spider):
             ).getall()
         except IndexError:
             popularidad = "Not Available"
-
 
         yield {
             "titulo": titulo,
