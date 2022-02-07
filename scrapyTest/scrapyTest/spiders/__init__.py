@@ -77,19 +77,19 @@ class QuotesSpider(scrapy.Spider):
                 "li.jxsVNt>a.ipc-link--baseAlt:link, .ipc-link--baseAlt>span.three-Elements span.score::text"
             ).getall()[0]
         except IndexError:
-            reseñas_usuarios = "Not Available"
+            reseñas_usuarios = "NaN"
 
         try:
             reseñas_criticos = response.css(
                 "li.jxsVNt>a.ipc-link--baseAlt:link, .ipc-link--baseAlt>span.three-Elements span.score::text"
             ).getall()[1]
         except IndexError:
-            reseñas_criticos = "Not Available"
+            reseñas_criticos = "NaN"
 
         try:
             metapuntuación = response.css("span.score-meta::text").getall()
         except IndexError:
-            metapuntuación = "Not Available"
+            metapuntuación = "NaN"
 
         try:
             popularidad = response.css(
