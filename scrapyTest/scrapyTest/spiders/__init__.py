@@ -49,8 +49,8 @@ class QuotesSpider(scrapy.Spider):
 
         base_url = "https://www.imdb.com"
         next_final = urljoin(base_url, str(next[0]))
-        print("-------next--------")
-        print(next_final)
+        # print("-------next--------")
+        # print(next_final)
 
         print(f"contador:{contador}")
 
@@ -61,32 +61,47 @@ class QuotesSpider(scrapy.Spider):
 
     def reseñas(self, response):
         try:
-            titulo = response.css("div.jxsVNt h1::text").getall()
+            titulo = response.css("#__next > main > div > section.ipc-page-background.ipc-page-background--base.MainDetailPageLayout__StyledPageBackground-sc-13rp3wh-0.hsughJ > section > div:nth-child(4) > section > section > div.TitleBlock__Container-sc-1nlhx7j-0.hglRHk > div.TitleBlock__TitleContainer-sc-1nlhx7j-1.jxsVNt > h1::text").getall()
+        except IndexError:
+            titulo = "Not Available"
+
+        try:
             year = response.css(
                 "#__next > main > div > section.ipc-page-background.ipc-page-background--base.MainDetailPageLayout__StyledPageBackground-sc-13rp3wh-0.hsughJ > section > div:nth-child(4) > section > section > div.TitleBlock__Container-sc-1nlhx7j-0.hglRHk > div.TitleBlock__TitleContainer-sc-1nlhx7j-1.jxsVNt > div.TitleBlock__TitleMetaDataContainer-sc-1nlhx7j-2.hWHMKr > ul > li:nth-child(1) > a::text"
             ).getall()
+        except IndexError:
+            year = "Not Available"
+
+        try:
             reseñas_usuarios = response.css(
                 "li.jxsVNt>a.ipc-link--baseAlt:link, .ipc-link--baseAlt>span.three-Elements span.score::text"
             ).getall()[0]
+        except IndexError:
+            reseñas_usuarios = "Not Available"
+
+        try:
             reseñas_criticos = response.css(
                 "li.jxsVNt>a.ipc-link--baseAlt:link, .ipc-link--baseAlt>span.three-Elements span.score::text"
             ).getall()[1]
+        except IndexError:
+            reseñas_criticos = "Not Available"
+
+        try:
             metapuntuación = response.css("span.score-meta::text").getall()
+        except IndexError:
+            metapuntuación = "Not Available"
+
+        try:
             popularidad = response.css(
                 "#__next > main > div > section.ipc-page-background.ipc-page-background--base.MainDetailPageLayout__StyledPageBackground-sc-13rp3wh-0.hsughJ > section > div:nth-child(4) > section > section > div.TitleBlock__Container-sc-1nlhx7j-0.hglRHk > div.RatingBar__RatingContainer-sc-85l9wd-0.hNqCJh.TitleBlock__HideableRatingBar-sc-1nlhx7j-4.bhTVMj > div > div:nth-child(3) > a > div > div > div.TrendingButton__ContentWrap-sc-bb3vt8-0.jQthUT > div.TrendingButton__TrendingScore-sc-bb3vt8-1.efbXIW::text"
             ).getall()
-
         except IndexError:
-            titulo = "Not Available"
-            year = "Not Available"
-            reseñas_usuarios = "Not Available"
-            reseñas_criticos = "Not Available"
-            metapuntuación = "Not Available"
             popularidad = "Not Available"
+
 
         yield {
             "titulo": titulo,
-            "year": year,
+            "año": year,
             "reseñas_usuarios": reseñas_usuarios,
             "reseñas_criticos": reseñas_criticos,
             "metapuntuación": metapuntuación,
