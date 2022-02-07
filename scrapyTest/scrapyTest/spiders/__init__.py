@@ -1,29 +1,39 @@
 import scrapy
+
 # from urllib.parse import urlparse
 from urllib.parse import urljoin
+
 # from flask import Request
 
 from random import randint
 from time import sleep
 
+contador = 0
+
 
 class QuotesSpider(scrapy.Spider):
     name = "scrapyTest"
     # Nombre de dominio del sitio web rastreado
-    allowed_domains = ['imdb.com']
+    allowed_domains = ["imdb.com"]
     # Página de inicio de la página de rastreo
     start_urls = [
-        'https://www.imdb.com/search/title/?genres=comedy&title_type=feature&explore=genres',
+        "https://www.imdb.com/search/title/?genres=comedy&title_type=feature&explore=genres",
     ]
 
     def parse(self, response):
+        global contador
+
         # css ('div.content p :: text') Use las Herramientas para desarrolladores de Google Chrome para verificar la ubicación específica del texto que se debe rastrear
-        titulos = response.css(
-            'div.lister-item-content>h3.lister-item-header a::text').getall()
+        # titulos = response.css(
+        #     "div.lister-item-content>h3.lister-item-header a::text"
+        # ).getall()
         links = response.css(
-            'div.lister-item-content>h3.lister-item-header  a::attr(href)').extract()
+            "div.lister-item-content>h3.lister-item-header  a::attr(href)"
+        ).extract()
         # links = urljoin('https://www.imdb.com',links)
-        next = response.css('#main > div > div.desc > a.lister-page-next.next-page::attr(href)').extract()
+        next = response.css(
+            "#main > div > div.desc > a.lister-page-next.next-page::attr(href)"
+        ).extract()
         # next_page = response.css('.next a').attrib['href']
 
         links_completos = []
@@ -42,34 +52,43 @@ class QuotesSpider(scrapy.Spider):
         print("-------next--------")
         print(next_final)
 
-        if next:
-            yield scrapy.Request(next_final, callback=self.parse)
-            
+        print(f"contador:{contador}")
+
+        if contador < 2:
+            if next:
+                contador += 1
+                yield scrapy.Request(next_final, callback=self.parse)
 
     def reseñas(self, response):
-        # titulo = []
-        # reseñas_usuarios = []
-        # reseñas_criticos = []
-        # metapuntuación = []
-
         try:
-            titulo = response.css('div.jxsVNt h1::text').getall()
+            titulo = response.css("div.jxsVNt h1::text").getall()
+            year = response.css(
+                "#__next > main > div > section.ipc-page-background.ipc-page-background--base.MainDetailPageLayout__StyledPageBackground-sc-13rp3wh-0.hsughJ > section > div:nth-child(4) > section > section > div.TitleBlock__Container-sc-1nlhx7j-0.hglRHk > div.TitleBlock__TitleContainer-sc-1nlhx7j-1.jxsVNt > div.TitleBlock__TitleMetaDataContainer-sc-1nlhx7j-2.hWHMKr > ul > li:nth-child(1) > a::text"
+            ).getall()
             reseñas_usuarios = response.css(
-                'li.jxsVNt>a.ipc-link--baseAlt:link, .ipc-link--baseAlt>span.three-Elements span.score::text').getall()[0]
+                "li.jxsVNt>a.ipc-link--baseAlt:link, .ipc-link--baseAlt>span.three-Elements span.score::text"
+            ).getall()[0]
             reseñas_criticos = response.css(
-                'li.jxsVNt>a.ipc-link--baseAlt:link, .ipc-link--baseAlt>span.three-Elements span.score::text').getall()[1]
-            metapuntuación = response.css(
-                'span.score-meta::text').getall()
+                "li.jxsVNt>a.ipc-link--baseAlt:link, .ipc-link--baseAlt>span.three-Elements span.score::text"
+            ).getall()[1]
+            metapuntuación = response.css("span.score-meta::text").getall()
+            popularidad = response.css(
+                "#__next > main > div > section.ipc-page-background.ipc-page-background--base.MainDetailPageLayout__StyledPageBackground-sc-13rp3wh-0.hsughJ > section > div:nth-child(4) > section > section > div.TitleBlock__Container-sc-1nlhx7j-0.hglRHk > div.RatingBar__RatingContainer-sc-85l9wd-0.hNqCJh.TitleBlock__HideableRatingBar-sc-1nlhx7j-4.bhTVMj > div > div:nth-child(3) > a > div > div > div.TrendingButton__ContentWrap-sc-bb3vt8-0.jQthUT > div.TrendingButton__TrendingScore-sc-bb3vt8-1.efbXIW::text"
+            ).getall()
 
         except IndexError:
             titulo = "Not Available"
+            year = "Not Available"
             reseñas_usuarios = "Not Available"
             reseñas_criticos = "Not Available"
             metapuntuación = "Not Available"
+            popularidad = "Not Available"
 
         yield {
-            'titulo': titulo,
-            'reseñas_usuarios': reseñas_usuarios,
-            'reseñas_criticos': reseñas_criticos,
-            'metapuntuación': metapuntuación,
+            "titulo": titulo,
+            "year": year,
+            "reseñas_usuarios": reseñas_usuarios,
+            "reseñas_criticos": reseñas_criticos,
+            "metapuntuación": metapuntuación,
+            "popularidad": popularidad,
         }
